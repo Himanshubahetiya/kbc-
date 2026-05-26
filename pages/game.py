@@ -20,7 +20,7 @@ def show():
         time.time() - st.session_state.start_time
     )
 
-    remaining = max(0, 20 - elapsed)
+    remaining = max(0, 30 - elapsed)
 
     # =====================================
     # TIME UP

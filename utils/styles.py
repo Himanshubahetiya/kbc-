@@ -180,5 +180,19 @@ def load_css():
 
     box-shadow: 0px 0px 15px rgba(0,0,0,0.5);
 }
+
+/* HIDE SIDEBAR */
+
+[data-testid="stSidebar"] {
+
+    display: none;
+}
+
+/* HIDE SIDEBAR BUTTON */
+
+[data-testid="collapsedControl"] {
+
+    display: none;
+}
     </style>
     """

@@ -110,7 +110,7 @@ def show():
 
         # 4. Text Branding Headers
         st.markdown('<h1 class="kbc-main-title kbc-center">KAUN BANEGA CROREPATI</h1>', unsafe_allow_html=True)
-        st.markdown('<p class="kbc-sub-title kbc-center">⚡ FASTEST FINGER FIRST ⚡</p>', unsafe_allow_html=True)
+        # st.markdown('<p class="kbc-sub-title kbc-center">⚡ FASTEST FINGER FIRST ⚡</p>', unsafe_allow_html=True)
 
         # 5. Amitabh Bachchan Signature Dialogue Box
         st.markdown("""

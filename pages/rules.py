@@ -126,7 +126,7 @@ def show():
         st.markdown("""
             <div class="rule-card">
                 <div class="rule-number">1</div>
-                <div class="rule-text">Aapke paas answers arrange karne ke liye kul <span class="rule-highlight">20 Seconds</span> ka samay hoga.</div>
+                <div class="rule-text">Aapke paas answers arrange karne ke liye kul <span class="rule-highlight">30 Seconds</span> ka samay hoga.</div>
             </div>
             <div class="rule-card">
                 <div class="rule-number">2</div>
