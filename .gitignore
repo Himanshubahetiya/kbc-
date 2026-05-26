@@ -1,0 +1,22 @@
+# Python
+
+venv/
+env/
+ENV/
+
+# Python cache
+
+__pycache__/
+*.pyc
+
+# Streamlit
+
+.streamlit/
+
+# VS Code
+
+.vscode/
+
+# Mac
+
+.DS_Store
